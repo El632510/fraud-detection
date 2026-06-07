@@ -1,0 +1,9 @@
+{
+  "python.defaultInterpreterPath": "./venv/Scripts/python",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 4,
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/.ipynb_checkpoints": true
+  }
+}
